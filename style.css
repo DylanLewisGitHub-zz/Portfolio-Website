@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+p {
+  color: white;
+}
+
+ul {
+  color: white;
+}
+
+.homePageBody {
+  background-image: url("https://www.udiscovermusic.com/wp-content/uploads/2019/09/Queen-Adam-Lambert-2019-press-shot-01-1000.jpg");
+}
+
+.homePageText {
+  background-color: black;
+}
+
+.tourInfoBody {
+  background-image: url("https://www.nme.com/wp-content/uploads/2020/03/queen-bohemianrhapsody-2000x1270-1.jpg");
+}
